@@ -1,0 +1,6 @@
+for the git basic I learned how to make a repo
+how to clone it
+how to push the code 
+how to add the files
+how to commit a message
+and how to look at the status 
