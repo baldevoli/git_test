@@ -30,4 +30,4 @@ git status is read as git | status | (no destination).
 
 no need edit 
 
-
+int this journal I am recording all the journey for the fullstack developer path in the given time frame.
