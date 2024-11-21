@@ -2,8 +2,9 @@ for the git basic I learned how to make a repo
 how to clone it   git clone(paste the ssh for the repo)
 how to push the code git push 
 how to add the files  git add to add the file 
-how to commit a message
-and how to look at the status 
+how to commit a message  git commit "message that you want to give"
+And how to look at the status git status to look at change
+Git log is used to see the history of all the activities on git 
 
 This is the CheatSheet fot the basic Git prastice
 Cheatsheet
