@@ -1,7 +1,7 @@
 for the git basic I learned how to make a repo
 how to clone it   git clone(paste the ssh for the repo)
-how to push the code git push
-how to add the files
+how to push the code git push 
+how to add the files  git add to add the file 
 how to commit a message
 and how to look at the status 
 
