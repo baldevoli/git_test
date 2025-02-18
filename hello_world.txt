@@ -1,10 +1,1 @@
-this is the text file 
-now I am tring auto commit 
 
-
-this is the second try for the auto commit 
-so 3
-
-
-
-this 
